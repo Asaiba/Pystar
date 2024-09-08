@@ -34,6 +34,8 @@ def check_win(player, computer):
       return "scissors cuts paper! You win!"
     else:
       return "rock Smashes Scissors! You lose."
+    
+#kjnklkjioj
 
 choices = get_choice()
 
