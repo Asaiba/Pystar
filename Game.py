@@ -35,6 +35,8 @@ def check_win(player, computer):
     else:
       return "rock Smashes Scissors! You lose."
 
+#we are
+
 choices = get_choice()
 
 result = check_win(choices["player"], choices["computer"])
